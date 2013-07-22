@@ -3,6 +3,7 @@
 Version: 1.0.3
 
 Original game by Reiner Knizia: http://www.knizia.de
+
 Full rules available at:
 http://freespace.virgin.net/chris.lawson/rk/engarde/rules.htm
 
